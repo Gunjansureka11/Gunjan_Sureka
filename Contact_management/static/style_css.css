@@ -1,42 +1,42 @@
 body {
-    font-family: Georgia, serif; 
+    font-family: Museo Slab; 
     color: black; 
-    margin-top: 3%;
-    margin-bottom: 3%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: 6%;
+    margin-right: 6%;
 }
 .theme-button{
-    font-family: Georgia, serif; 
+    font-family: Museo Slab; 
     color: white;
     background-color: #007eb0;
-    border-radius: 4px;
-    padding: 5pt;
+    border-radius: 6px;
+    padding: 6pt;
     border-color: #007eb0;
-    margin-right: 15pt;
+    margin-right: 18pt;
 }
 .nuetral-button{
-    font-family: Georgia, serif; 
+    font-family: Museo Slab; 
     color: black;
     background-color: white;
-    border-radius: 4px;
-    padding: 5pt;
+    border-radius: 6px;
+    padding: 6pt;
     border-color: white;
-    margin-right: 15pt;
+    margin-right: 18pt;
 }
 .discard-button{
-    font-family: Georgia, serif; 
+    font-family: Museo Slab; 
     color: white;
-    background-color: #d0311c;
-    border-radius: 4px;
-    padding: 5pt;
-    border-color: #d0311c;
-    margin-right: 15pt;
+    background-color: #610000;
+    border-radius: 6px;
+    padding: 6pt;
+    border-color: #610000;
+    margin-right: 18pt;
 }
 .header2{
-    font-family: Georgia, serif; 
+    font-family: Museo Slab; 
     color: black; 
-    font-size: 24pt; 
+    font-size: 23pt; 
     font-weight: bold; 
     text-align: center; 
     margin-top: 2%; 
